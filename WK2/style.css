@@ -19,7 +19,13 @@
 }
 .csym019{
     background-color: blue;
+    width: 50%;
+    display: inline;
+    float:left;
 }
 .csym015{
     background-color: yellow;
+    width:50%;
+    display: inline;
+    float:right;
 }
